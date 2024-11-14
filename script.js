@@ -155,7 +155,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         renderFilteredTasks(filteredTasks);
-        showHomeButton(true); // Show Home button when filtering or searching
+        showHomeButton(true); // Show Home button when ,filtering or searching
         toggleNoTaskMessage(filteredTasks.length === 0);
     }
 
