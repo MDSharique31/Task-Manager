@@ -59,3 +59,9 @@ Here's a quick overview of the main files in the project:
 - index.html: Main HTML structure for the dashboard interface.
 - style.css: Custom styles for layout, transitions, priority labels, buttons, and more.
 - script.js: JavaScript functionalities, including task management, local storage integration, and filtering.
+
+## 🌐 Deployment
+
+- *Deployment Link*: [🌍 Task Manager Dashboard](https://task-manager-loysxbh3d-shariques-projects-945912b4.vercel.app)
+
+---
